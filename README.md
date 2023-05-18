@@ -1,1 +1,1 @@
-# weather
+# Simple weather app use OpenWeather API
